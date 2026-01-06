@@ -4,7 +4,16 @@ This project explores replacing hash-based POW with competitive optimization tas
 
 Validators compete to improve a shared optimization objective. Each accepted block represents a verifiable improvement to the global solution.
 
-This is a research-oriented personal project focused on protocol design and experimentation, not a production system.
+## Scope and Intent
+
+This is a research-oriented personal project focused on protocol design and experimentation.
+
+This project is **not**:
+- a production-level system
+- a blockchain
+- a cryptocurrency
+
+The goal is to explore consensus-like mechanisms based on useful computation in a controlled, simplified setting, without economic, cryptographic, or deployment concerns.
 
 ## Status
 Early research and prototyping.
