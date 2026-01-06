@@ -23,4 +23,5 @@ This project explicitly does **NOT attempt to**:
 
 
 ## High-Level Idea
+
 A shared optimization problem is defined at genesis. Validators compete to submit strictly improving solutions. The global state advances monotonically as better solutions are found.
